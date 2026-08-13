@@ -1,4 +1,4 @@
-def build_multiplication_table(number, limit):
+def build_multiplication_table(number, limi):
     return [number * value for value in range(1, limit + 1)]
 
 
